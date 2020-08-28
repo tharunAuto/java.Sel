@@ -1,4 +1,4 @@
-package java_exam;
+package Encapsulation;
 
 public class encapsulation {
 
